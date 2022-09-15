@@ -13,3 +13,5 @@ persist_with: yostar_0914_default_datagroup
 explore: users {}
 
 explore: user_plus_daily {}
+
+explore: events {}
