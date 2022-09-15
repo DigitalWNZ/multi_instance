@@ -1,4 +1,4 @@
-connection: "yostar_0914"
+connection: "yostart_0914"
 
 # include all the views
 include: "/views/**/*.view"
