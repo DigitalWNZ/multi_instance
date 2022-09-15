@@ -16,4 +16,4 @@ explore: user_plus_daily {}
 
 explore: events {}
 
-### Hello edit
+### Hello edit.
